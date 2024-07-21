@@ -2,18 +2,18 @@
 
 # smaller-is-hungrier
 
-Smaller is Hungrier is a [Sponge](https://spongepowered.org) plugin that makes player smaller when they are hungrier.
-You can also make them smaller when they lose health. ;)
+**Smaller is Hungrier** is a [Sponge](https://spongepowered.org) plugin that makes player smaller when they are hungrier.
+You can also make them smaller when they lose health ;)
 
 Why? Because why not.
 
-This is definitely an original idea that didn't come from [OwengeJuiceTV](https://twitch.tv/owengejuicetv).
+This is definitely an original idea that didn't come from [OwengeJuiceTV](https://twitch.tv/owengejuicetv)
 
 ## 📥 Installation
 
-1. Download the `smaller-is-hungrier-x.x.x-all.jar` (`x.x.x` is the version) from the [latest release](https://github.com/pandier/smaller-is-hungrier/releases/latest).
-2. Put the file into `mods` directory under your Sponge server.
-3. Run the server.
+1. Download the `smaller-is-hungrier-x.x.x-all.jar` (`x.x.x` is the version) from the [latest release](https://github.com/pandier/smaller-is-hungrier/releases/latest)
+2. Put the file into `mods` directory under your Sponge server
+3. Run the server
 
 ## ⚙️ Configuration
 
