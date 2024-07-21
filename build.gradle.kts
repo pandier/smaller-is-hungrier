@@ -43,3 +43,7 @@ sponge {
 kotlin {
     jvmToolchain(21)
 }
+
+tasks.assemble {
+    dependsOn(tasks.shadowJar)
+}
