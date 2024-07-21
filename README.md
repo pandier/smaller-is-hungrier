@@ -11,7 +11,7 @@ This is definitely an original idea that didn't come from [OwengeJuiceTV](https:
 
 ## 📥 Installation
 
-1. Download the `smaller-is-hungrier-x.x.x-all.jar` (`x.x.x` is the version) from the [latest release](https://github.com/pandier/smaller-is-hungrier/releases/latest)
+1. Download the `smaller-is-hungrier-x.x.x-all.jar` (`x.x.x` is the version, make sure the name ends with `-all`) from the [latest release](https://github.com/pandier/smaller-is-hungrier/releases/latest)
 2. Put the file into `mods` directory under your Sponge server
 3. Run the server
 
